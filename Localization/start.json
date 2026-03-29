@@ -826,7 +826,7 @@
   "label.cpm.keybind.toggleHidden": "Toggle Hidden by Default",
   "label.cpm.reopenProject": "Reopen/recover previously open project?\\%s",
   "label.cpm.effect.enableInvisGlow": "Invisible Glowing",
-  "label.cpm.newCube": "New Cube",
+  "label.cpm.newCube": "cube",
   "label.cpm.tags.newTag": "New Tag",
   "label.cpm.tags.newTag.desc": "Create New Tag:",
   "label.cpm.tags.newTag.invalidTag": "Invalid tag name",

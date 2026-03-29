@@ -827,7 +827,7 @@
   "label.cpm.keybind.toggleHidden": "切换默认隐藏",
   "label.cpm.reopenProject": "重新打开/恢复之前打开的项目？\\%s",
   "label.cpm.effect.enableInvisGlow": "隐身发光",
-  "label.cpm.newCube": "新块",
+  "label.cpm.newCube": "cube",
   "label.cpm.tags.newTag": "新标签",
   "label.cpm.tags.newTag.desc": "创建新标签：",
   "label.cpm.tags.newTag.invalidTag": "无效的标签名",
